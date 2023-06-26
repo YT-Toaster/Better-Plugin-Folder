@@ -7,7 +7,7 @@
 # Information:
 - Creates a new folder next to "_dat" and the "ISZ-ModMenu.exe" called "**plugins**".
 - Copies all plugins from directory ***_dat > MMplugins*** to ***plugins***.
-- Sits as a Middle-Man Communication Layer. Between the "ISZ-ModMenu.exe" or "iszlib2.exe" and the Plugin-Files.
+- Sits as a Middle-Man Layer. Between the "ISZ-ModMenu.exe" or "iszlib2.exe" and the Plugin-Files.
 - Gives more Plugin Spaces to the ISZ-ModMenu. (Up-to 6 plugins aposed to 4 + WTSM). *Requires name scheme of plugin{i}.py. ("{i}" refers to numbers 0 - 5). 
 
 
