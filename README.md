@@ -3,6 +3,7 @@
 
 # Download:
 - Download [Here](https://github.com/YT-Toaster/Better-Plugin-Folder/releases/download/release-1/plugin.py).
+- View Source [Here]().
 
 # Information:
 - Creates a new folder next to "_dat" and the "ISZ-ModMenu.exe" called "**plugins**".
